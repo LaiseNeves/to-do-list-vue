@@ -1,20 +1,18 @@
 # Vue 3 + Vite
 
-Esse é um projeto simples de lista de tarefas, desenvolvi para treinar conceitos fundamentais do Vue.js, como reatividade, data binding e eventos.
-
-O projeto salva as tarefas no LocalStorage.
+Esse é um projeto simples de lista de tarefas, desenvolvi para treinar conceitos fundamentais do Vue.js, como reatividade, data binding e eventos. O projeto salva as tarefas no LocalStorage.
 
 O projeto foi criado utilizando apenas HTML + CSS + JavaScript + Vue.js via CDN, sem build tools
 
 ***A aplicação é estruturada assim:***
 
-- Um campo de texto para digitar novas tarefas
+---> Um campo de texto para digitar novas tarefas
 
-- Uma lista que exibe todas as tarefas adicionadas
+---> Uma lista que exibe todas as tarefas adicionadas
 
-- Botões para remover e marcar como concluída
+---> Botões para remover e marcar como concluída
 
-- Salvamento automático no localStorage sempre que a lista é alterada
+---> Salvamento automático no localStorage sempre que a lista é alterada
 
 ***Funcionalidades***
 
