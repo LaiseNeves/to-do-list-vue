@@ -4,8 +4,6 @@ Esse é um projeto simples de lista de tarefas, desenvolvi para treinar conceito
 
 O projeto foi criado utilizando apenas HTML + CSS + JavaScript + Vue.js via CDN, sem build tools
 
-*** https://laiseneves.github.io/to-do-list-vue/ 
-
 ***A aplicação é estruturada assim:***
 
 ---> Um campo de texto para digitar novas tarefas
