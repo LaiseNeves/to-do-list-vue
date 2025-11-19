@@ -4,6 +4,8 @@ Esse é um projeto simples de lista de tarefas, desenvolvi para treinar conceito
 
 O projeto foi criado utilizando apenas HTML + CSS + JavaScript + Vue.js via CDN, sem build tools
 
+*** https://laiseneves.github.io/to-do-list-vue/ 
+
 ***A aplicação é estruturada assim:***
 
 ---> Um campo de texto para digitar novas tarefas
@@ -27,6 +29,8 @@ O projeto foi criado utilizando apenas HTML + CSS + JavaScript + Vue.js via CDN,
 ---> Salvamento automático no localStorage
 
 ---> Interface simples, responsiva e fácil de entender
+
+
 
 
 This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
